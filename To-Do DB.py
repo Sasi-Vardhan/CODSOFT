@@ -10,7 +10,7 @@ import mysql.connector
 mydb=mysql.connector.connect(
         host='localhost',
         user='root',
-        password='Sasi@2004',
+        password='#####'#, :)here the password is Removed :),please  kindly give your password and database name inorder to use this application
         database='todo')
 myc=mydb.cursor()
 
